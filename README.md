@@ -73,14 +73,14 @@ ML biblioteke: Scikit-learn, XGBoost
 
 Integracijom modela potražnje i modela proizvodnje razvijen je sistem koji:
 
-predviđa ukupnu potrošnju električne energije
+  - predviđa ukupnu potrošnju električne energije
 
-procenjuje koliki deo te potrošnje može biti pokriven iz obnovljivih izvora u realnom vremenu
+  - procenjuje koliki deo te potrošnje može biti pokriven iz obnovljivih izvora u realnom vremenu
 
 Ovakav pristup omogućava:
 
-optimizaciju rada termoelektrana
+  - optimizaciju rada termoelektrana
 
-efikasnije upravljanje mrežom
+  - efikasnije upravljanje mrežom
 
-smanjenje emisije CO₂
+   -smanjenje emisije CO₂
